@@ -44,7 +44,7 @@ To ensure scalability, all functions are implemented using asynchronous programm
 
 ### Data Input
 
-Data input is handled in a separate project. You can find more details and access it here: https://github.com/sara-lea/WebApi_ManagerProject.git
+Data input is handled in a separate project. You can find more details and access it here: https://github.com/rut-git/WebApi_ManagerProject
 
 ### Documentation
 
